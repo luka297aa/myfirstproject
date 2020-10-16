@@ -1,0 +1,12 @@
+body {
+    margin: 10px;
+}
+* {
+    color: blue;
+}
+h1 {color: red;}
+.note {color: sandybrown;}
+#dodge {color: yellow;}
+ul > li {color: green;}
+p a {color: grey;}
+h1 + a {color: indianred;}
